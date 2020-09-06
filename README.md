@@ -1,5 +1,41 @@
                                         Bobble Assignment(Android)
 
+
+
+
+
+
+
+
+
+
+
+IF YOU WANT TO CLONE MY PROJECT AND RUN IT ON YOUR SYSTEM THEN VISIT THE BELOW LINK AS IT CONTAINS THE EXECUTABLE FILE AS WELL AS THE DOCUMENTATION. THIS LINK WILL GIVE YOU A MUCH BETTER UNDERSTANDING AND INTERACTION WITH THE APP.
+
+https://github.com/pavass/Interntask/tree/task
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ans. 1:   I created a ChatLogActivity containing all of our messages. I rendered out rows for our messages and with the help of Groupie I made the adapter objects. To send the messages on our screen, we first require to save a list of messages under a node in Firebase Database. Next I listened for all of the messages as they are entered in the system, and then refreshing our list in real time. I also added the functionality to automatically scroll to the bottom of the recycler view and also the edit text will become empty once the text is sent.
 
 The link to my  github repository is below. Please clone the project and run it to have a practical view. 
